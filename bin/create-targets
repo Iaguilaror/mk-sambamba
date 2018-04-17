@@ -1,0 +1,9 @@
+#!/bin/bash
+
+## Este script solo debe de generar las cadenas de caracteres correspondientes a los targets que nos interesan.
+## Ejemplo de un create-targets que genera todos los targets posibles dependiendo de lo que hay en data
+
+find -L data/ \
+	-type f \
+	-name "*.bam" \
+| sed -e "s#data/#results/#" -e "s#.bam#.markdup.bam#"
