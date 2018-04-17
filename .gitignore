@@ -1,0 +1,6 @@
+## Aqui se pueden agregar paths para que git no los intente versionar
+# for data as directory
+*data/*
+# for data as symlink
+data*
+*results/*
