@@ -6,7 +6,7 @@
 
 Mark or remove duplicates using the sambamba program
 
-## Module desription
+## Module description
 
 This module uses the program sambamba to mark or remove duplicates from a bam file and produces a new bam file. Duplicates are considered as originated from the same DNA fragment. They may form due to: 
 
