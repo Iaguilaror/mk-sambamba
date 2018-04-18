@@ -63,7 +63,7 @@ mk-sambamba/			##Module main directory
 
 ## References
 
-\[1\][SAMBAMBA] ( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4765878/)
+\[1\][SAMBAMBA] ( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4765878/)  
 \[2\] [SEQANSWERS] ( http://seqanswers.com/forums/showthread.php?t=5424/)
 
 
